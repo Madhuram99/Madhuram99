@@ -236,6 +236,6 @@ A smart file transfer system that handles failures gracefully.
 
 *"Good engineers write code. Great engineers design systems that scale, adapt, and evolve."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Madhuram99&color=6C63FF&style=flat-square&label=Profile+Views)
+![Built with](https://img.shields.io/badge/Built_with-❤️_and_AI-6C63FF?style=for-the-badge)
 
 </div>
