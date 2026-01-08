@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuram-rathi-a7770018a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhuram99)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuramrathi99@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1531-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 </div>
@@ -22,7 +23,20 @@ With experience architecting AI automation platforms across **15+ client workflo
 
 ---
 
-##  Featured Projects
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuram99&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhuram99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuram99&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -165,7 +179,8 @@ A smart file transfer system that handles failures gracefully.
 
 **Open to opportunities** in AI/ML Engineering, Backend Development, and System Design roles.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuram-rathi-a7770018a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuram-rathi-a7770018a/)
+[![Email](https://img.shields.io/badge/madhuramrathi99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuramrathi99@gmail.com)
 
 *"Good engineers write code. Great engineers design systems that scale, adapt, and evolve."*
 
