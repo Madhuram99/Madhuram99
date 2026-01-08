@@ -11,28 +11,28 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuramrathi99@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1531-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Grade+AI+Systems;Multi-Agent+Architectures+%7C+LLM+Orchestration;From+Concept+to+Deployment+%E2%80%94+I+Own+It+All" alt="Typing SVG" />
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 What I Do
 
-I'm a **Founding AI Engineer** building intelligent, production-grade AI systems. My work sits at the intersection of **LLM orchestration**, **agentic architectures**, and **distributed systems design**.
-
-With experience architecting AI automation platforms across **15+ client workflows** and founding-level ownership at a stealth startup, I transform complex problems into scalable solutions.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Madhuram99/Madhuram99/output/snake-dark.svg" alt="Snake animation" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhuram99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuram99&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+```python
+class MadhuramRathi:
+    def __init__(self):
+        self.role = "Founding AI Engineer"
+        self.focus = ["Agentic AI", "LLM Orchestration", "System Design"]
+        self.impact = {
+            "client_workflows_automated": "15+",
+            "manual_intervention_reduced": "50%+",
+            "applications_processed": "1000+/month"
+        }
+    
+    def current_work(self):
+        return "Building autonomous AI agents that think, plan, and execute"
+```
 
 ---
 
@@ -133,41 +133,91 @@ A smart file transfer system that handles failures gracefully.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Journey
 
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| **Founding AI Engineer** | Stealth Startup | Jan 2026 – Present | Building core AI infrastructure from ground up |
-| **AI Engineer** | [Powersmy.biz](https://powersmy.biz) | Feb 2025 – Dec 2025 | 15+ client workflows, 50%+ automation gains |
-| **SDE Intern** | LendingIQ | May 2024 – Aug 2024 | 1000+ applications/month, 40% faster reviews |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀-Stealth_Startup-6C63FF?style=for-the-badge" />
+<br><br>
+<b>Founding AI Engineer</b>
+<br>
+<sub>Jan 2026 – Present</sub>
+<br><br>
+<i>Building core AI infrastructure from the ground up</i>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤖-Powersmy.biz-00D4AA?style=for-the-badge" />
+<br><br>
+<b>AI Engineer</b>
+<br>
+<sub>Feb 2025 – Dec 2025</sub>
+<br><br>
+<i>15+ client workflows • 50%+ automation gains</i>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💳-LendingIQ-FF6B6B?style=for-the-badge" />
+<br><br>
+<b>SDE Intern</b>
+<br>
+<sub>May 2024 – Aug 2024</sub>
+<br><br>
+<i>1000+ apps/month • 40% faster reviews</i>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Competitive Edge
 
 <div align="center">
 
-**JEE Advanced AIR 4894** (Top 5% of 180K+) • **Codeforces 1531** (Specialist) • **4★ CodeChef 1679** • **RMO Qualified**
+| 🎯 JEE Advanced 2023 | 💻 Codeforces | ⭐ CodeChef | 🧮 RMO |
+|:---:|:---:|:---:|:---:|
+| **AIR 4894** | **Specialist (1531)** | **4-Star (1679)** | **Qualified** |
+| Top 5% of 180K+ | Top 5% globally | Strong problem-solving | Math Olympiad |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=graphql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**AI/ML & LLM Orchestration**
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Infrastructure & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Madhuram99/Madhuram99/output/snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -175,13 +225,17 @@ A smart file transfer system that handles failures gracefully.
 
 <div align="center">
 
-### 💬 Let's Connect
+### 💬 Let's Build Something Amazing
 
 **Open to opportunities** in AI/ML Engineering, Backend Development, and System Design roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuram-rathi-a7770018a/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuram-rathi-a7770018a/)
 [![Email](https://img.shields.io/badge/madhuramrathi99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuramrathi99@gmail.com)
 
+---
+
 *"Good engineers write code. Great engineers design systems that scale, adapt, and evolve."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Madhuram99&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
