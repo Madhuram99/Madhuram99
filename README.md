@@ -213,16 +213,6 @@ A smart file transfer system that handles failures gracefully.
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Madhuram99/Madhuram99/output/snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Build Something Amazing
