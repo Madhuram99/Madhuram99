@@ -137,15 +137,7 @@ A smart file transfer system that handles failures gracefully.
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🚀-Stealth_Startup-6C63FF?style=for-the-badge" />
-<br><br>
-<b>Founding AI Engineer</b>
-<br>
-<sub>Jan 2026 – Present</sub>
-<br><br>
-<i>Building core AI infrastructure from the ground up</i>
-</td>
+
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🤖-Powersmy.biz-00D4AA?style=for-the-badge" />
 <br><br>
